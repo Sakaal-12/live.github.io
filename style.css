@@ -422,15 +422,15 @@ ul,ol{
 }
 
 .hero .swiper-slide:nth-child(1){
-	background: url(../img/hero1.jpg) no-repeat center;
+	background: url(hero1.jpg) no-repeat center;
 }
 
 .hero .swiper-slide:nth-child(2){
-	background: url(../img/hero2.webp) no-repeat center;
+	background: url(hero2.webp) no-repeat center;
 }
 
 .hero .swiper-slide:nth-child(3){
-	background: url(../img/hero3.jpg) no-repeat center;
+	background: url(hero3.jpg) no-repeat center;
 }
 
 .hero .swiper-slide :is(.h1, span, p){
